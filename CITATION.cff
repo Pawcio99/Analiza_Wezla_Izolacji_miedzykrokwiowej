@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Jeżeli wykorzystujesz tę publikację naukowo lub technicznie, zacytuj ją w podany sposób."
+title: "Styk ściany szczytowej z połacią dachu jako węzeł wielofizyczny"
+type: article
+authors:
+  - family-names: Majsterek
+    given-names: Paweł
+version: "1.0"
+date-released: 2026-10-01
+license: other
+abstract: >-
+  Krytyczna analiza konstrukcyjna i higrotermiczna rozwiązania z obniżoną koroną muru, oparta na literaturze, normach i mechanizmach fizyki budowli, bez własnych obliczeń konkretnego budynku.
